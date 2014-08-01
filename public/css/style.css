@@ -1,0 +1,12 @@
+
+/**
+*   GLOBAL STYLE
+**/
+.float-center{
+    display: block;
+    margin: 0px auto;
+    clear: both;
+}
+.clearfix{
+    margin-bottom: 10px;
+}
